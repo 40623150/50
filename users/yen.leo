@@ -1008,7 +1008,7 @@ doc['clear_container'].bind('click',clear_container)
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20180109223350.1">#W10-W12
+<t tx="leo.20180109223350.1"># W10-W12
 
 * 新增 github 帳號
 
@@ -1054,7 +1054,7 @@ doc['clear_container'].bind('click',clear_container)
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20180109224517.1">#W16-W18
+<t tx="leo.20180109224517.1"># W16-W18
 
 * 分組期末報告
 
