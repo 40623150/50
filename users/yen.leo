@@ -1008,17 +1008,17 @@ doc['clear_container'].bind('click',clear_container)
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20180109223350.1"> #W10-W12
+<t tx="leo.20180109223350.1">#W10-W12
 
-*新增 github 帳號
+* 新增 github 帳號
 
-*綁定後至Y槽並拉至SciTE檢查
+* 綁定後至Y槽並拉至SciTE檢查
 
-*綁定 git config --global user.name "學號 "
+* 綁定 git config --global user.name "學號 "
 
-*綁定 git config --global user.name "email "
+* 綁定 git config --global user.name "email "
 
-*Qt Disign 數學運算邏輯概念
+* Qt Disign 數學運算邏輯概念
 </t>
 <t tx="leo.20180109223626.1">&lt;section&gt;
     @others
@@ -1032,17 +1032,17 @@ doc['clear_container'].bind('click',clear_container)
 </t>
 <t tx="leo.20180109223703.1"># W13-W15
 
-*改版內容資料利用git push推送
+* 改版內容資料利用git push推送
 
-*新增 git add .
+* 新增 git add .
 
-*新增版本 git commit -m " "
+* 新增版本 git commit -m "名稱 "
 
 * 建立github協同倉儲
 
-*以下是和fossil不同的
+* 以下是和fossil不同的
 
-*將遠端內容轉至近端用 git pull
+* 將遠端內容轉至近端用 git pull
 </t>
 <t tx="leo.20180109224351.1">&lt;section&gt;
     @others
@@ -1054,13 +1054,13 @@ doc['clear_container'].bind('click',clear_container)
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20180109224517.1"> # W16-W18
+<t tx="leo.20180109224517.1">#W16-W18
 
-*分組期末報告
+* 分組期末報告
 
 * 透過分組來做出計算機程式
 
-*將影片放入 youtube</t>
+* 將影片放入 youtube</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
