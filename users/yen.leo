@@ -52,7 +52,7 @@
 <v t="yen.20170108171733.14"><vh>封面投影片</vh>
 <v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20171116155618.1" a="E"><vh>課業流程</vh>
+<v t="leo.20171116155618.1"><vh>課業流程</vh>
 <v t="leo.20171116155837.1"><vh>內容</vh></v>
 </v>
 <v t="yen.20170108171733.16"><vh>W1-W3</vh>
@@ -66,7 +66,7 @@
 <v t="leo.20171108213611.1"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20171106204943.1" a="E"><vh>W4-W6</vh>
+<v t="leo.20171106204943.1"><vh>W4-W6</vh>
 <v t="leo.20171108213739.1" a="E"><vh>上課大剛</vh>
 <v t="leo.20171108213803.1"><vh>內容</vh></v>
 </v>
@@ -86,12 +86,27 @@
 <v t="leo.20171116224318.1"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20171106205233.1" a="E"><vh>W7-W9</vh>
+<v t="leo.20171106205233.1"><vh>W7-W9</vh>
 <v t="leo.20171108222310.1" a="E"><vh>上課大綱</vh>
 <v t="leo.20171108222333.1"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20171116011151.1" a="E"><vh>上課筆記</vh>
+<v t="leo.20180109223124.1" a="E"><vh>W10-W12</vh>
+<v t="leo.20180109223248.1" a="E"><vh>上課大綱</vh>
+<v t="leo.20180109223350.1"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20180109223626.1" a="E"><vh>W13-W15</vh>
+<v t="leo.20180109223645.1" a="E"><vh>上課大綱</vh>
+<v t="leo.20180109223703.1"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20180109224351.1" a="E"><vh>W16-W18</vh>
+<v t="leo.20180109224516.1" a="E"><vh>上課大綱</vh>
+<v t="leo.20180109224517.1"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20171116011151.1"><vh>上課筆記</vh>
 <v t="leo.20171116011249.1"><vh>首頁</vh>
 <v t="leo.20171116012137.1"><vh>內文</vh></v>
 </v>
@@ -114,7 +129,7 @@
 <v t="leo.20171116013118.1"><vh>內文</vh></v>
 </v>
 </v>
-<v t="leo.20171108222446.1"><vh>心得</vh>
+<v t="leo.20171108222446.1" a="E"><vh>心得</vh>
 <v t="leo.20171108222540.1"><vh>內容</vh></v>
 </v>
 <v t="leo.20170911090822.1"><vh>隨身碟內容介紹</vh>
@@ -618,8 +633,7 @@ g.es("admin pelican Github 執行完畢")
 </t>
 <t tx="leo.20171108222540.1">#學習心得
 
-* 經過了將近兩個月的課程,我學到了很多新知識,懂得如何從近端控制遠端,也懂得用Python3程式語法製作出圖形,這些新知識對未來有很大的幫助,在此要特別感謝老師的耐心教導及同學的熱心幫助。
-</t>
+* 這學期的計算機程式課，無論是自己做一個計算機，又或者是創造一個屬於我們自己的網誌，雖然都是我們不曾接觸過的東西，但在老師的教導下以及回家透過老師的影片複習，讓我們的學習更佳的順利，也讓我們學得更多，更能成為一個對社會有貢獻的人。</t>
 <t tx="leo.20171108225408.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -984,6 +998,69 @@ doc['clear_container'].bind('click',clear_container)
 				</t>
 <t tx="leo.20171116224318.1">##eric6
 &lt;img src="https://cpa.kmol.info/40623150/raw/756afd32ee6be96f558d113f4b5f0da8f4161bf3d9269df84c511e532211587e?m=image/png" width="660" height="500" &gt;&lt;/a&gt;</t>
+<t tx="leo.20180109223124.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180109223248.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180109223350.1"> #W10-W12
+
+*新增 github 帳號
+
+*綁定後至Y槽並拉至SciTE檢查
+
+*綁定 git config --global user.name "學號 "
+
+*綁定 git config --global user.name "email "
+
+*Qt Disign 數學運算邏輯概念
+</t>
+<t tx="leo.20180109223626.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180109223645.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180109223703.1"># W13-W15
+
+*改版內容資料利用git push推送
+
+*新增 git add .
+
+*新增版本 git commit -m " "
+
+* 建立github協同倉儲
+
+*以下是和fossil不同的
+
+*將遠端內容轉至近端用 git pull
+</t>
+<t tx="leo.20180109224351.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180109224516.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180109224517.1"> # W16-W18
+
+*分組期末報告
+
+* 透過分組來做出計算機程式
+
+*將影片放入 youtube</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
